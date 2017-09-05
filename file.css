@@ -1,0 +1,403 @@
+body {
+        font-size: 100%;
+      }
+      .wf-loading p { 
+        font-family: sans-serif; 
+      }
+      .wf-inactive p { 
+        font-family: sans-serif; 
+      }
+      .wf-active p { 
+        font-family: 'Roboto', sans-serif; 
+        font-size: 1em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: 140%;
+        text-align: left;
+        padding-left: 2%;
+        padding-right: 2%; 
+        Margin: 15px 5px 15px 5px; 
+      }
+      .wf-loading h1 { 
+        font-family: sans-serif; 
+        font-weight: 700; 
+        font-size: normal; 
+      }
+      .wf-inactive h1 { 
+        font-family: sans-serif;  
+        font-weight: 700; 
+        font-size: normal; 
+      }
+      .wf-active h1 { 
+        font-family: 'Syncopate', sans-serif; 
+        font-size: normal;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        text-align: left;
+        background-color: #ffffff;
+        color: #0000CD;
+        line-height: normal; 
+      }
+      .wf-loading h2 { 
+        font-family: sans-serif;  
+        font-weight: 700; 
+        font-size: normal; 
+        color:#333333; 
+      }
+      .wf-inactive h2 { 
+        font-family: sans-serif; 
+        font-weight: 700; 
+        font-size: normal; 
+        color:#333333; 
+      }
+      .wf-active h2 { 
+        font-family: 'Raleway', sans-serif;
+        font-size: normal;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        background-color: #ffffff;
+        color: #333333;
+        line-height: normal;
+        text-align: center;
+        padding-left: 2%;
+        padding-right: 2%; 
+        Margin: 10px 0px 20px 0px; 
+      }
+      .wf-loading h3 { 
+        font-family: sans-serif;  
+        font-weight: 700; 
+        font-size: normal; 
+        color:#333333; 
+      }
+      .wf-inactive h3 { 
+        font-family: sans-serif; 
+        font-weight: 700; 
+        font-size: normal; 
+        color:#333333; 
+      }
+      .wf-active h3 { 
+        font-family: 'Raleway', sans-serif;
+        font-size: normal;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        background-color: #ffffff;
+        color: #333333;
+        line-height: normal;
+        text-align: center;
+        padding-left: 2%;
+        padding-right: 2%; 
+        Margin: 10px 0px 20px 0px; 
+      }
+      .wf-loading p.ex2 { 
+        font-family: sans-serif; 
+        font-weight: 400; 
+        font-size: 1.125em; 
+      }
+      .wf-inactive p.ex2 { 
+        font-family: sans-serif; 
+        font-weight: 400; 
+        font-size: 1.125em; 
+      }
+      .wf-active p.ex2 { 
+        font-family: 'Josefin Sans', sans-serif; 
+        font-size: 1.125em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: 120%;
+        text-align: center; 
+      }
+      .wf-loading figcaption { 
+        font-family: sans-serif; 
+        font-weight: 400; 
+        font-size: 1em;
+      }
+      .wf-inactive figcaption { 
+        font-family: sans-serif; 
+        font-weight: 400; 
+        font-size: 1em;
+      }
+      .wf-active figcaption { 
+        font-family: 'Raleway', sans-serif; 
+        font-size: 0.875em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: 120%;
+        text-align: center;
+        padding-top: 1%;
+        padding-right: 6%;
+        padding-bottom: 0%; 
+        padding-left: 6%; 
+        margin: 5px 5px 20px 5px; 
+      }
+      .wf-loading i { 
+        font-family: sans-serif;
+        font-weight: 300; 
+        font-size: 1em;
+      }
+      .wf-inactive i { 
+        font-family: sans-serif; 
+        font-weight: 300; 
+        font-size: 1em;
+      }
+      .wf-active i { 
+        font-family: 'Roboto', sans-serif; 
+        font-size: 1em;
+        font-style: italic;
+        font-variant: 140%;
+        font-weight: 300;
+        background-color: #ffffff;
+        color: #666666;
+        line-height: normal;
+      }
+      p.intro::first-letter {
+        background-color: #ffffff;
+        color: #000000;
+        font-family: 'Georgia', serif;
+        font-size: 2em;
+      }
+      .img1 {   
+        display: block;
+        margin: auto;
+      }
+      ol {
+        font-family: 'Roboto', sans-serif;
+        font-size: 1em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: 140%;
+        text-align: left;
+        padding-left: 8%;
+        padding-right: 2%;
+      }
+      ol li {
+        font-family: 'Roboto', sans-serif;
+        font-size: 1em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: 140%;
+        text-align: left;
+        padding-left: 0%;
+        padding-right: 2%;
+      }
+      ul.a {
+        list-style-type: square;
+        font-family: 'Roboto', serif;
+        font-size: 1em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: normal;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: 140%;
+        padding-left: 8%;
+        padding-right: 2%;
+      }
+      p.ex1 {
+        font-family: 'Raleway', serif;
+        font-size: 1.5em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: normal;
+        padding-left: 2%;
+        padding-right: 0%;
+      }
+      .button {
+        background-color: #ffffff;
+        border: 2px solid #C0C0C0;
+        color: #000000;
+        border-radius: 4px;
+        padding: 2px 18px 2px 18px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+      p.ex3 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 0.6em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        text-align: left;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: normal;
+       }
+       p.ex4 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 0.6em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 300;
+        text-align: left;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: normal;
+      }
+      p.ex5 { 
+        font-family: 'Roboto', sans-serif; 
+        font-size: 0.6em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: normal;
+        text-align: left;
+        padding-left: 2%;
+        padding-right: 0%; 
+        Margin: 0px 0px 0px 0px; 
+      }
+      p.ex6 { 
+        font-family: 'Roboto', sans-serif; 
+        font-size: 0.6em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 300;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: normal;
+        text-align: left;
+        padding-left: 2%;
+        padding-right: 0%; 
+        Margin: 0px 0px 0px 0px; 
+      }
+      hr { 
+        display: block;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+        margin-left: auto;
+        margin-right: auto;
+        border-style: inset;
+        border-width: 1px;
+      } 
+      .center {
+        margin: auto;
+        width: auto;
+        border: 2px solid #008080;
+        text-align: centre;
+        padding-top: 0%;
+        padding-left: 42%;
+        padding-bottom: 0%;
+      }
+      .right {
+        text-align: right;
+      }
+      p.ex7 { 
+        font-family: 'Roboto', sans-serif; 
+        font-size: 0.6em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        line-height: normal;
+      }
+      p.ex8 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 0.875em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        text-align: left;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: normal;
+      }
+      p.ex9 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 0.875em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 300;
+        text-align: left;
+        background-color: #ffffff;
+        color: #000000;
+        line-height: normal;
+      }
+      blockquote {
+        font-family: 'Trocchi', serif;
+        background-color: #ffffff;
+        color: #000000;
+        margin: 0px 50px 0px 50px;
+        padding: 30px 10px 10px 10px;
+        position: relative;
+        font-size: 1.125em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        line-height: 120%;
+        text-align: justify;
+        border-left: 4px solid #c76c0c;
+      }
+      blockquote:before {
+        display: block;
+        content: "\201C";
+        font-size: 3.5em;
+        position: absolute;
+          top: -50px;
+          left: -6px;
+        color: #7a7a7a;
+      }
+      blockquote cite {
+        font-family: 'Raleway', sans-serif;
+        background-color: #ffffff;
+        color: #333333;
+        line-height: normal;
+        font-size: 0.875em;
+        font-weight: 400;
+        text-align: right;
+        margin-top: 5px;
+      }
+      blockquote cite:before {
+        content: "\2014 \2009";
+      }
+      .ex10 {
+        width: 100%;
+        height: 3px;
+        background-color: #008080;
+      }
+      div.polaroid {
+        width: 100%;
+        background-color: #000000;
+      }
+      div.container {
+        text-align: left; 
+      }
+      p.ex11 { 
+        font-family: 'Raleway', sans-serif; 
+        font-size: 0.875em;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        background-color: #000000;
+        color: #ffffff;
+        line-height: 120%;
+        text-align: left;
+        padding-top: 1%;
+        padding-right: 2%;
+        padding-bottom: 1%; 
+        padding-left: 2%; 
+        margin: 5px 5px 5px 5px; 
+      }
